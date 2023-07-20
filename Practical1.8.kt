@@ -15,6 +15,11 @@ fun main(){
 
     }
 
+    val b = intArrayOf(1,2,3)
+    println(b)
+
+
+
 
 
     }
